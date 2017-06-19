@@ -1,0 +1,11 @@
+
+|--------------------------------------------|
+|Feature Outline							 |
+|--------------------------------------------|	
+
+Login Screen
+Student Manager
+Teacher Manager
+Master Info
+Send SMS
+Send Email
