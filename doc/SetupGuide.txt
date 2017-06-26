@@ -1,0 +1,16 @@
+Step to Setup Notify
+
+1. Create a Github account and make sure create a username 
+
+2. please refer the below location 
+https://github.com/
+
+3. Install svn in the following location, only appreicable for developer 
+https://tortoisesvn.net/downloads.html
+
+4. Notify Source location 
+https://github.com/satyajit015/Knowtifi
+
+
+
+
