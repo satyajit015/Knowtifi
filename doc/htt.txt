@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<h2>my second heading</h2>
+<h3>my second heading</h3>
+<h4>My First Heading</h4>
+<h5>my second heading</h5>
+<h6>my second heading</h6>
+<hr>
+<p title="I'm a tooltip">My first paragraph.</p>
+<hr>
+<a href="https://www.w3schools.com">This is a link</a>  
+<img src="my photo.jpg" alt="W3Schools.com" width="104" height="200">
+</body>
+</html>
